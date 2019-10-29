@@ -10,7 +10,27 @@
   ],
   "meta": {
     "author": "Jam Guide",
-    "lastUpdated": "10/14/2019",
+    "lastUpdated": "10/29/2019",
     "url": "https://jam.guide/"
+  },
+  "songMeta" :{
+    "Old Joe Clark": {
+      "url": "https://www.youtube.com/watch?v=CKfBhEFVCsU"
+    },
+    "Leather Britches": {
+      "url": "https://www.youtube.com/watch?v=BfnjJMTCp3c"
+    },
+    "Liberty": {
+      "url": "https://www.youtube.com/watch?v=n7I4pPW6oVk"
+    },
+    "Cattle in the Cane": {
+      "url": "https://www.youtube.com/watch?v=-6VeyJxzXyM"
+    },
+    "Fisher's Hornpipe": {
+      "url": "https://www.youtube.com/watch?v=Afzl3A8o7vE"
+    },
+    "Fiddler's Dream": {
+      "url": "https://www.youtube.com/watch?v=5VorB7OQLUI"
+    }
   }
 }
