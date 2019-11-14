@@ -1,8 +1,21 @@
 [
   {
-  "name": "Adam Steffey Recommends",
-  "url": "https://jam.guide/lists/adam_steffey_recommends.json"
+    "name": "Adam Steffey Recommends",
+    "url": "https://jam.guide/lists/adam_steffey_recommends.json"
   },
+  {
+    "name": "BEGINNING/INTERMEDIATE FIDDLE with Chad Manning",
+    "url": "https://jam.guide/lists/peghead_nation_beginning_intermediate_fiddle.json"
+  },
+  {
+    "name": "OLD-TIME FIDDLE with Bruce Molsky",
+    "url": "https://jam.guide/lists/peghead_nation_beginning_old_time_fiddle.json"
+  },
+  {
+    "name": "MELODIC MANDOLIN TUNES with John Reischman",
+    "url": "https://jam.guide/lists/peghead_nation_melodic_mandolin_tunes.json"
+  },
+
   {
     "name": "THE ADVANCING MANDOLINIST with Joe K. Walsh",
     "url": "https://jam.guide/lists/peghead_nation_advancing_mandolinist.json"
