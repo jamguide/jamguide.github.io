@@ -15,9 +15,16 @@
     "name": "MELODIC MANDOLIN TUNES with John Reischman",
     "url": "https://jam.guide/lists/peghead_nation_melodic_mandolin_tunes.json"
   },
-
   {
     "name": "THE ADVANCING MANDOLINIST with Joe K. Walsh",
     "url": "https://jam.guide/lists/peghead_nation_advancing_mandolinist.json"
+  },
+  {
+    "name": "INTERMEDIATE FLATPICKING GUITAR with Scott Nygaard",
+    "url": "https://jam.guide/lists/peghead_nation_intermediate_flatpicking_guitar.json"
+  },
+  {
+    "name": "ADVANCED FLATPICKING GUITAR with Scott Nygaard",
+    "url": "https://jam.guide/lists/peghead_nation_advanced_flatpicking_guitar.json"
   }
 ]
